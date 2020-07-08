@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
 """
+Author : TSuganuma
+
+July 7, Morning exercise : Get data from ADDRESS below
 """
 
 import requests
