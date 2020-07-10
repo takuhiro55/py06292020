@@ -1,0 +1,31 @@
+{
+    "Chevrolet": [
+        {
+            "Model": "Corvette",
+            "Year": "2020",
+            "Price": "58900"
+        },
+        {
+            "Model": "Volt",
+            "Year": "2020",
+            "Price": "33520"
+        },
+        {
+            "Model": "Malibu",
+            "Year": "2020",
+            "Price": "22140"
+        }
+    ],
+    "Buick": [
+        {
+            "Model": "LaCrosse",
+            "Year": "2019",
+            "Price": "29570"
+        },
+        {
+            "Model": "CT6",
+            "Year": "2020",
+            "Price": "58995"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Toyota": [
+        {
+            "Model": "RAV4",
+            "Year": "2020",
+            "Price": "34000"
+        },
+        {
+            "Model": "4Runner",
+            "Year": "2020",
+            "Price": "36120"
+        },
+        {
+            "Model": "Avalon",
+            "Year": "2020",
+            "Price": "35875"
+        },
+        {
+            "Model": "Corolla",
+            "Year": "2020",
+            "Price": "19600"
+        }
+    ],
+    "Honda": [
+        {
+            "Model": "Accord",
+            "Year": "2020",
+            "Price": "24270"
+        },
+        {
+            "Model": "Civic Sedan",
+            "Year": "2020",
+            "Price": "20800"
+        }
+    ],
+    "Subaru": [
+        {
+            "Model": "Impreza",
+            "Year": "2020",
+            "Price": "18695"
+        }
+    ]
+}

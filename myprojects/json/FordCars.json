@@ -1,0 +1,36 @@
+{
+    "Mustang": [
+        {
+            "Model": "EcoBoost Fastback",
+            "Year": "2020",
+            "Price": "26670"
+        },
+        {
+            "Model": "GT Fastback",
+            "Year": "2020",
+            "Price": "35880"
+        },
+        {
+            "Model": "Bullitt",
+            "Year": "2020",
+            "Price": "47705"
+        }
+    ],
+    "Ford SUV": [
+        {
+            "Model": "Ecosport",
+            "Year": "2020",
+            "Price": "19995"
+        },
+        {
+            "Model": "Escape",
+            "Year": "2020",
+            "Price": "24885"
+        },
+        {
+            "Model": "Edge",
+            "Year": "2020",
+            "Price": "31100"
+        }
+    ]
+}
